@@ -1,4 +1,6 @@
-dotfiles
+Dotfiles
 ========
 
-Collection of my dotfiles and settings files
+A collection of my dotfiles and settings files.
+
+- Sublime Text 2

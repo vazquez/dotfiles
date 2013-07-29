@@ -1,0 +1,50 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"wide_caret": true,
+	"color_scheme": "Packages/Theme MDG/mdg.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 15.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter",
+		"Web Inspector",
+		"SublimeLinter",
+		"LiveReload"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"tab_size": 2,
+	"line_padding_bottom": 2.5,
+	"line_padding_top": 2.5,
+	"match_brackets": true,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+	"open_files_in_new_window": false,
+	"phoenix_color_blue": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_tabs_auto_width": true,
+	"highlight_modified_tab": true,
+	"scroll_speed": 5.0,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"soda_classic_tabs": true,
+	"theme": "Flatland.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#_%^&*|+=[]{}`~?",
+	"close_windows_when_empty": true
+}
