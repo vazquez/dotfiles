@@ -8,3 +8,4 @@ Files for the following:
 - Bash
 - Git
 - Sublime Text 2
+- ZSH
